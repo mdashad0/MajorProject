@@ -1,21 +1,22 @@
-# Major Project on wanderlust    
-
-
+# wanderlust    
 LIVE LINK:https://majorproject-1-9p07.onrender.com/listings 
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Project Description
 This project helps to see different hotels on a platform .users can give rating a they like hotel and they can also see the location of it .
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 ## Features
 - user Login and logout feature 
 - map for hotel location 
 - user can list new hotel and can edit also .
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 ## Technologies Used
 - HTML,CSS ,Javascript,bootstrap  for forntend . 
 - node.js for routing ,Passport for login and logout .
 - MongoDb for database .
-
+- Atlas databsae for cloud storage .
+- Render for hosting website .
+-------------------------------------------------------------------------------------------------------------------------------------------
 ## Installation
 Steps to install and set up the project locally:
 1.npm init -y 
@@ -33,7 +34,7 @@ Steps to install and set up the project locally:
    ```bash
    git clone https://github.com/omkarhole/majorproject.git
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 #images:
 ![Uploading Screenshot 2025-05-01 113200.png…]()
 ![Screenshot 2025-05-01 113216](https://github.com/user-attachments/assets/1fef1f20-77c8-40d6-bf19-87f1a8db128f)
