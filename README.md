@@ -1,7 +1,7 @@
 # Major Project on wanderlust    
 
 
-LIVE LINK:https://majorproject-1-9p07.onrender.com  
+LIVE LINK:https://majorproject-1-9p07.onrender.com/listings 
 
 ## Project Description
 This project helps to see different hotels on a platform .users can give rating a they like hotel and they can also see the location of it .
