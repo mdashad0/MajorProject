@@ -115,7 +115,7 @@ res.status(statusCode).render("listings/error.ejs",{message});
     // res.status(statusCode).send(message);
 });
 app.listen(8080,()=>{
-console.log("listening to port 8080");
+console.log("listening to port 8080 http://localhost:8080/listings");
 }); 
 
 // app.get("/testListing",async(req,res)=>{
