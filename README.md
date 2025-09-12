@@ -104,5 +104,6 @@ majorproject/
 ![Screenshot 2025-05-01 113216](https://i.ibb.co/bjfRZhbH/Screenshot-2025-09-12-205959.png)
 ![Screenshot 2025-05-01 113217](https://i.ibb.co/sd9n9bwX/Screenshot-2025-09-12-210019.png)
 ![Screenshot 2025-05-01 112933](https://i.ibb.co/9mYPH0dk/Screenshot-2025-09-12-173617.png)
-![Screenshot 2025-05-01 112945](https://github.com/user-attachments/assets/7b51d303-0be1-4a05-bdf6-18b2b01dea1d)
+![Screenshot 2025-05-01 112945](https://i.ibb.co/WpYLxTPx/Screenshot-2025-09-12-174306.png)
+![Screenshot 2025-05-01 112946](https://i.ibb.co/JwMMhrSR/Screenshot-2025-09-12-174326.png)
 ![Screenshot 2025-05-01 112854](https://i.ibb.co/Hp450WhL/Screenshot-2025-09-12-174350.png)
