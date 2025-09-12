@@ -1,5 +1,5 @@
 # wanderlust    
-LIVE LINK:https://majorproject-1-9p07.onrender.com/listings 
+LIVE LINK:https://majorproject-4-ai4j.onrender.com 
 
 
 ## Project Description
@@ -30,9 +30,6 @@ Steps to install and set up the project locally:
 9.npmi passport
 10.npm i Joi 
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/omkarhole/majorproject.git
 
 
 #images:
