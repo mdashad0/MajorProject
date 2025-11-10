@@ -14,7 +14,6 @@ req.flash("success","New Review Created");
 res.redirect(`/listings/${listing._id}`);
 };
 
-
 module.exports.deleteReview=async(req,res)=>{
 let{id,reviewId}=req.params;
 await Listing.findByIdAndUpdate(id,{$pull:{reviews:reviewId}});
