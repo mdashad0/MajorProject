@@ -16,7 +16,7 @@ module.exports.signup=async(req,res)=>{
         }
         req.flash("success","welcome to wanderLust");
         res.redirect("/listings");
-    })
+    });
     
  };
  catch(e){
