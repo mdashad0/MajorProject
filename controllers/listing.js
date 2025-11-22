@@ -59,7 +59,7 @@ module.exports.updatelistings=async (req, res) => {
     let { id } = req.params;
     if (!req.body.listing) {
         throw new ExpressError(400, "send valid data for listing");
-    }
+    };
   
    let listing= await Listing.findByIdAndUpdate(id, { ...req.body.listing });
    if(typeof req.file!=="undefined")
