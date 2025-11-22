@@ -3,7 +3,6 @@ const Listing =require("../models/listing");
 const maptilerClient=require("@maptiler/client");
 maptilerClient.config.apiKey = process.env.MAP_TOKEN;
 
-
 module.exports.index=async (req, res) => {
 
     const allListings = await Listing.find({});
