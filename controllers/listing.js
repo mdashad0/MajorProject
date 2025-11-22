@@ -47,7 +47,7 @@ module.exports.editlistings=async (req, res) => {
     if (!listing) {
         req.flash("error", "listing you requested for does not exist!");
         res.redirect("/listings");
-    }
+    };
     const imageHeight = 250; 
     const imageWidth = 220;
 let originalImageUrl=listing.image.url;
