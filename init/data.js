@@ -346,7 +346,7 @@ const sampleListings =[
     location: 'Costa Rica',
     country: 'Costa Rica',
     geometry: { type: 'Point', coordinates: [-84.0907, 9.9281] }
-  }
+  };
 ]
 
   module.exports = { data: sampleListings };
