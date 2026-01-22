@@ -17,4 +17,4 @@ router.delete("/:id",(req,res)=>{
     res.send("Delete for Get users");
 });
 
-module.exports=router;;
+module.exports=router;
