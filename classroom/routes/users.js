@@ -17,6 +17,6 @@ router.post("/",(req,res)=>{
 
 router.delete("/:id",(req,res)=>{
     res.send("Delete for Get users");
-})
+});
 
 module.exports=router;
