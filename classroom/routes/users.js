@@ -5,7 +5,6 @@ router.get("/",(req,res)=>{
     res.send("Get users");
 });
 
-
 router.get("/:id",(req,res)=>{
     res.send("Get for users id");
 });
