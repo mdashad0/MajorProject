@@ -14,7 +14,6 @@ router.post("/",(req,res)=>{
     res.send(" POST  for users");
 });
 
-
 router.delete("/:id",(req,res)=>{
     res.send("Delete for Get users");
 });
